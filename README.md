@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on java
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on java
 - 🤔 I’m looking for help with programação
-- 💬 Ask me about não tem
+- 💬 Ask me about nada
 - 📫 How to reach me: não tem
 
 
